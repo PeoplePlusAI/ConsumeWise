@@ -7,7 +7,7 @@ The **ConsumeWise DPI** platform is designed to:
 - Build a **decentralized, open-source repository** of product data for public use.
 - Use this data to generate **personalized recommendations** for healthier and more sustainable consumption.
 
-Learn more about the project [here](#).
+Learn more about the project [here](https://docs.google.com/document/d/e/2PACX-1vQ0I3DVqe_B-GlaqSRJ3QrwnBO7L6pE1uTZfGo9f7w4xI8Bci5oJl3tpM7oTaRRrE8mzbUfTe3RjVgg/pub).
 
 ## Getting Started
 
@@ -47,16 +47,12 @@ When submitting a pull request, please ensure all required information is filled
 
 ## Volunteer & Contribute
 
-Interested in volunteering or contributing to the project? Refer to the [Volunteer page](#) for more information or check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution guidelines.
+Interested in volunteering or contributing to the project? Refer to the [Volunteer page](https://peopleplus.ai/volunteer) for more information or check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution guidelines.
 
 ## About Us
 
-**People+AI** connects doers, dreamers, tinkerers, and innovators with ideas and resources to build an ecosystem that can empower a billion people to reach their potential. [Learn more](#).
+**People+AI** connects doers, dreamers, tinkerers, and innovators with ideas and resources to build an ecosystem that can empower a billion people to reach their potential. [Learn more](https://peopleplus.ai/).
 
 ---
 
 **Made with ♥️ for 🇮🇳 by Team People+AI**
-
----
-
-This structure aligns well with GitHub practices, including documentation, issue tracking, and contribution guidelines.
