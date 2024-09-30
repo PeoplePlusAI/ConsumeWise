@@ -1,4 +1,4 @@
-# Project Documentation
+# ConsumeWise - Public Product Information System 
 
 Welcome to the documentation for the project! This folder is dedicated to storing project documentation and related documents. Here are some guidelines on how to add and organize your project documentation:
 
