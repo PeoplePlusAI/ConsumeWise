@@ -31,7 +31,7 @@ A link to the live demo will be provided if available. Otherwise, refer to the d
 
 ## Contributing
 
-We welcome contributions from the community. Please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md). Check out the [current bounties](#) for more ways to get involved.
+We welcome contributions from the community. Please follow the guidelines outlined in [CONTRIBUTING.md](.github/CONTRIBUTING.md). Check out the [current bounties](#) for more ways to get involved.
 
 ## Documentation
 
@@ -39,15 +39,15 @@ The `docs` folder contains detailed project documentation. To access or contribu
 
 ## Issues
 
-If you encounter any issues, please create a new issue using the [issue template](ISSUE_TEMPLATE.md). Provide as much detail as possible to help us understand and resolve the problem.
+If you encounter any issues, please create a new issue using the [issue template](.github/ISSUE_TEMPLATE.md). Provide as much detail as possible to help us understand and resolve the problem.
 
 ## Pull Requests
 
-When submitting a pull request, please ensure all required information is filled out in the [pull request template](PULL_REQUEST_TEMPLATE.md).
+When submitting a pull request, please ensure all required information is filled out in the [pull request template](.github/PULL_REQUEST_TEMPLATE.md).
 
 ## Volunteer & Contribute
 
-Interested in volunteering or contributing to the project? Refer to the [Volunteer page](https://peopleplus.ai/volunteer) for more information or check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for contribution guidelines.
+Interested in volunteering or contributing to the project? Refer to the [Volunteer page](https://peopleplus.ai/volunteer) for more information or check out the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for contribution guidelines.
 
 ## About Us
 
