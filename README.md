@@ -1,7 +1,3 @@
-Here is an edited version of the write-up to make it more GitHub-friendly as a README:
-
----
-
 # ConsumeWise: Digital Public Product Information System
 
 ## Introduction
