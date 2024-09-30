@@ -31,7 +31,7 @@ A link to the live demo will be provided if available. Otherwise, refer to the d
 
 ## Contributing
 
-We welcome contributions from the community. Please follow the guidelines outlined in [CONTRIBUTING.md](.github/CONTRIBUTING.md). Check out the [current bounties](#) for more ways to get involved.
+We welcome contributions from the community. Please follow the guidelines outlined in [CONTRIBUTING.md](.github/CONTRIBUTING.md). Check out the [current bounties](https://docs.google.com/spreadsheets/d/1cqL3XJHp68mz-YxZ2hwR7sVMBzJ9tPJn3Bljcey0gJw/edit?usp=sharing) for more ways to get involved.
 
 ## Documentation
 
